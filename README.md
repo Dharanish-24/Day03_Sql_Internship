@@ -4,7 +4,7 @@
 ![image alt](https://github.com/Dharanish-24/Day03_Sql_Internship/blob/main/Screenshot%202025-06-26%20155450.png)
 ### 2. Select specific columns
          SELECT col_name from a table;
-![image alt]()
+![image alt](https://github.com/Dharanish-24/Day03_Sql_Internship/blob/main/Screenshot%202025-06-26%20155537.png)
 ### 3. Use WHERE to filter rows
         SELECT * FROM patient WHERE age > 40;
 ![image alt]()
